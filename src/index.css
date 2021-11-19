@@ -1,0 +1,43 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: Be Vietnam;
+      font-weight: 300;
+      src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@300&display=swap') format("woff");
+    }
+    @font-face {
+      font-family: Be Vietnam;
+      font-weight: 400;
+      src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@400&display=swap') format("woff");
+    }
+    @font-face {
+      font-family: Be Vietnam;
+      font-weight: 500;
+      src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@500&display=swap') format("woff");
+    }
+    @font-face {
+      font-family: Be Vietnam;
+      font-weight: 700;
+      src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@700&display=swap') format("woff");
+    }
+    @font-face {
+      font-family: Be Vietnam;
+      font-weight: 800;
+      src: url('https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@800&display=swap') format("woff");
+    }
+}
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-thumb { 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
