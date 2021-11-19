@@ -1,7 +1,7 @@
-**Hi, I hope this project find you happy and well**
+**Hi, I hope this project finds you happy and well**
 
 The installation process is really easy!
-First: make sure you have Nodejs installed on your computer and operating well. 
+First: make sure you have Nodejs installed on your computer and running well. 
 Then, open the terminal, `cd` to the project directory, and type this command:-
 
     npm install
