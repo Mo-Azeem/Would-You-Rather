@@ -11,3 +11,7 @@ Wait until it's done installing the dependencies, when it's done, type the follo
 
     npm start
 And that's it!
+
+
+
+**Note**: Installing packages with PNPM will always fail. Tested and running well using NPM.
